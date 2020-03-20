@@ -4,8 +4,7 @@
 Purpose: to generate a password of varying lengths and a combination of Uppercase letters, lowercase letters, symbols, and numbers, depending on users input.
 
 
-!(Screenshots/passwordgenerator.png)
-
+!(passwordgenerator.png)
 
 note: didnt get button to work :/
 
